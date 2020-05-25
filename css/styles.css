@@ -1,13 +1,14 @@
 body {
-    background-color: #defcf9;
+    background-color: #ebfffa;
     margin: 0;
     font-family: 'Merriweather', serif;
+    color: #cadefc;
 }
 h1 {
     margin-top: 0;
     font-family: 'Sacramento', cursive;
     font-size: 70px;
-    color: #cadefc;
+    color: #c3bef0;
 }
 .paragraph-header {
     font-size: 25px;
@@ -15,22 +16,11 @@ h1 {
 }
 h2 {
     font-family: 'Montserrat', sans-serif;
+    color: #c3bef0;
 }
 h3 {
     font-family: 'Montserrat', sans-serif;
-}
-.top-container {
-   text-align: center;
-   position: relative;
-   padding-top: 300px;
-}
-.middle-container {
-    width: 100px;
-    height: 100px;
-}
-.bottom-container {
-    width: 100px;
-    height: 100px;
+    color: #c3bef0;
 }
 .top-cloud {
     position: absolute;
@@ -44,4 +34,20 @@ h3 {
     bottom: 350px;
     opacity: 20%;
 }
+.top-container {
+   text-align: center;
+   position: relative;
+   padding-top: 300px;
+}
+.middle-container {
+    text-align: center;
+    position: relative;
+    padding: 100px 200px 200px 200px;
+}
+.bottom-container {
+    text-align: center;
+   position: relative;
+   margin-top: 0px;
+}
+
 
