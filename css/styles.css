@@ -22,6 +22,14 @@ h3 {
     color: #c3bef0;
     text-align: left;
 }
+hr {
+    border: dotted 10px;
+    color: #cadefc;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+
+}
 .top-cloud {
     position: absolute;
     right: 100px;
@@ -41,7 +49,6 @@ h3 {
 }
 .middle-container {
     text-align: center;
-    position: relative;
     padding: 100px;
 }
 .bottom-container {
@@ -56,7 +63,6 @@ h3 {
     margin-bottom: 0;
     height: 100px;
     text-align: center;
-    position: relative;
     padding-top: 50px;
 }
 .skill-row {
